@@ -1,5 +1,15 @@
 # Strategic Planning and Project Management System
 
+---
+## Author: Juan Carlos Gonzalez
+
+## Email: jcgi.laboral@gmail.com
+
+## Date: July 2024
+
+---
+
+
 ## Index
 
 1. [Problem Definition](#problem-definition)
@@ -8,6 +18,8 @@
 4. [Available Resources](#available-resources)
 5. [Feasibility Study](#feasibility-study)
 6. [Development Process Model](#development-process-model)
+7. [Conclusions](#conclusions)
+8. [References](#references)
 
 ---
 
@@ -466,17 +478,17 @@ The modules are connected to the Flask component, indicating that they are part 
 
 # Conclusions
 
-Requirements analysis and system modeling using UML modeling allow you to structure an efficient solution that addresses Fyware's needs. The use of UML diagrams has been essential to model the proposed solution for Fyware. Each type of diagram is important in understanding, designing, and communicating the key elements of the system. This approach ensures that the proposed platform not only optimizes project management but also improves strategic alignment with business objectives, providing a customized solution for the VR software development sector.
+Requirements analysis and system modeling using UML modeling allow you to structure an efficient solution that addresses enterprise's needs. The use of UML diagrams has been essential to model the proposed solution for enterprise. Each type of diagram is important in understanding, designing, and communicating the key elements of the system. This approach ensures that the proposed platform not only optimizes project management but also improves strategic alignment with business objectives, providing a customized solution for the VR software development sector.
 
-The implementation of the Scrum methodology in Fyware turns out to be an effective solution to address the problem of Strategic Planning and Project Management in the field of software development. Scrum, as an agile methodology, allows the functional requirements of the system to be managed in an iterative and flexible way, ensuring that the final product is aligned with both the needs of the users and the strategic objectives of the company.
+The implementation of the Scrum methodology in enterprise turns out to be an effective solution to address the problem of Strategic Planning and Project Management in the field of software development. Scrum, as an agile methodology, allows the functional requirements of the system to be managed in an iterative and flexible way, ensuring that the final product is aligned with both the needs of the users and the strategic objectives of the company.
 
-Functional requirements are obtained and refined through constant collaboration between the different actors involved in the project, such as product owners, scrum masters, and developers. In the context of Fyware, product owners represent managers and administrators, who have a clear vision and goals for the project planning and management platform.
+Functional requirements are obtained and refined through constant collaboration between the different actors involved in the project, such as product owners, scrum masters, and developers. In the context of enterprise, product owners represent managers and administrators, who have a clear vision and goals for the project planning and management platform.
 
-- **Product Owner:** Represents Fyware's project and administration managers, in charge of defining requirements and prioritizing the backlog.
+- **Product Owner:** Represents enterprise's project and administration managers, in charge of defining requirements and prioritizing the backlog.
 - **Scrum Master:** Facilitates the Scrum process, removing obstacles and making sure that the development team can work without interruptions.
-- **Development Team:** Fyware's software developers, who work on the creation and implementation of the project planning and management platform.
+- **Development Team:** enterprise's software developers, who work on the creation and implementation of the project planning and management platform.
 
-Through the creation of the product backlog, key functionalities such as resource allocation, project progress visualization, and strategic process automation are prioritized. They provide Fyware with a solid framework to develop a strategic planning and project management platform tailored to its specific needs in the field of augmented and virtual reality software development. 
+Through the creation of the product backlog, key functionalities such as resource allocation, project progress visualization, and strategic process automation are prioritized. They provide enterprise with a solid framework to develop a strategic planning and project management platform tailored to its specific needs in the field of augmented and virtual reality software development. 
 
 # References
 
